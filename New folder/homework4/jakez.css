@@ -1,0 +1,33 @@
+body { 
+width:200px; 
+height:100px;
+border: 2px solid black;
+padding: 95px;
+background-color: #DCDCDC;
+color: black;
+font-family: "Times New Roman", Times, serif; /*Change Font Selection*/
+text-align:left}
+{
+.schoolInfo{
+ color: Black;
+ text-align: center;
+ 
+}
+.img-golf{
+width: 300px;
+Height: 1000px;
+background-image: url(golf.jpg)
+}
+.img-goals{
+width: 300px;
+Height: 200px;
+background-image: url(lambo.jpg)
+}
+.img-school{
+width: 300px;
+Height: 200px;
+background-image: url(Scholar.jpg)
+
+
+
+
