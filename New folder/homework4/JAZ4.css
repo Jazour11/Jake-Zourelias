@@ -1,0 +1,41 @@
+body{
+    background-color: LightGray;
+
+   }
+h1 {
+    color: black;
+     font-weight: bold;
+
+}
+h2 {
+    color: Black;
+     font-weight: bold;
+      
+}
+h3 {
+    color: Black;
+     font-weight: bold;
+}
+.intro {
+color: black;
+}
+
+.myDIV2 {
+color: black;
+}
+.myDIV3 {
+color: black;
+}
+.img-golf {
+width: 300px;
+height: 200px;
+}
+.img-goals {
+width: 300px;
+height: 200px;
+
+}
+.img-school {
+width: 300px;
+height: 200px;
+}
