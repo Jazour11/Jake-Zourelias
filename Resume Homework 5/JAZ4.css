@@ -22,30 +22,34 @@ height: 200px;
 width: 300px;
 height: 200px;    
 }
-school1.jpg {
+.school1.jpg {
 width: 300px;
 height: 200px; 
 }                    /* Resume Css */
 
-.wonderexp {                /*wonderexp refers to the experience I gained from Wonder Researcb*/
+#wonderexp {                /*wonderexp refers to the experience I gained from Wonder Researcb*/
 list-style-type: square;
 }
-.bioexp {                   /*bioexp refers to the experience I gained from WCCC*/
+#bioexp {                   /*bioexp refers to the experience I gained from WCCC*/
 list-style-type: square;
 }
-.proskills {               /*proskills refers to my Professional Skills.*/
+#proskills {               /*proskills refers to my Professional Skills.*/
 list-style-type: square;
 }
-.amzlog {                  /*amzlog refers to the experience I gained from Amazon*/
+#amzlog {                  /*amzlog refers to the experience I gained from Amazon*/
 list-style-type: square;
 }
 .edu {
 list-style-type: square;   /*edu refers to my education*/
 }
-
-
-
-
-
+#mow {
+list-style-type: square;   /*edu refers to my Voluteer*/
+}
+#bait {
+list-style-type: square;   
+}
+#cleanup {
+list-style-type: square;   
+}
 
 
