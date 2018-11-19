@@ -1,0 +1,38 @@
+body{
+    background-color: LightGray; /*Flexbox image assignment 11/16/2018*/
+    margin: 0px;
+    padding: 0px;
+    }
+#p1 {
+text-align: center;
+font: 25px arial, sans-serif; /*Paragraphs*/
+}
+#p2 {
+text-align: center;
+font: 25px arial, sans-serif;
+}
+#p3 {
+text-align: center;
+font: 25px arial, sans-serif;
+}
+.car1 {
+  display: flex; /*Images*/
+  width: 50%; 
+   margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+ }
+.car2 {
+  display: flex;
+  width: 50%; 
+   margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.car3 {
+display: flex;
+  width: 50%; 
+   margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
