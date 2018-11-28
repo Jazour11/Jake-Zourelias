@@ -14,10 +14,14 @@
         <p>Flexbox Image 2</p>
         </div>
         <img class="car2" src="img/jake.jpg" alt="car image2"/> <!--Car 2 image-->
-        <div id="p3">
-        <p>Flexbox Image 3</p>
-            <img class="car3" src="img/car3.jpg" alt="car image3"/> <!--Car 3 image-->
+        
+            <div class="svggraph">
+                <img src="bargraph.svg" alt="graph"/>
+              </div>
+        <button onclick="document.getElementById('myImage').src='pic_bulbon.gif'">Turn on the light</button>
+        
+        <img id="myImage" src="pic_bulboff.gif" style="width:100px">
             
-        </div>
+            <button onclick="document.getElementById('myImage').src='pic_bulboff.gif'">Turn off the light</button>
     </body>
 </html>

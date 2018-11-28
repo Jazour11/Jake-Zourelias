@@ -1,0 +1,45 @@
+body{
+    background-color: LightGray;
+    margin: 0px;
+    padding: 0px;
+
+}
+.intro {
+color: black;
+}
+
+.myDIV2 {
+color: black;
+}
+.myDIV3 {
+color: black;
+}
+.img-golf {                 /*img-golf refers to the image of the golf ball called golf.jpg*/
+width: 300px;
+height: 200px;
+}
+.img-goals {                /*img-goals refers to the image of the lambo called golf.jpg*/
+width: 300px;
+height: 200px;              /* Resume Css */
+ }
+.wonderexp {                /*wonderexp refers to the experience I gained from Wonder Researcb*/
+list-style-type: square;
+}
+.bioexp {                   /*bioexp refers to the experience I gained from WCCC*/
+list-style-type: square;
+}
+.proskills {               /*proskills refers to my Professional Skills.*/
+list-style-type: square;
+}
+.amzlog {                  /*amzlog refers to the experience I gained from Amazon*/
+list-style-type: square;
+}
+.edu {
+list-style-type: square;
+
+
+
+
+
+
+
