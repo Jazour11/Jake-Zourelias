@@ -36,3 +36,10 @@ display: flex;
     margin-right: auto;
     width: 50%;
 }
+.mystyle {
+    width: 100%;
+    padding: 25px;
+    background-color:	#00008B;
+    color: white;
+    font-size: 25px;
+}
