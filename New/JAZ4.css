@@ -14,27 +14,22 @@ color: black;
 .myDIV3 {
 color: black;
 }
-.img-golf {                 /*img-golf refers to the image of the golf ball called golf.jpg*/
-display: flex; /*Images*/
+.car {
+  display: flex; /*Images*/
   width: 50%; 
    margin-left: auto;
     margin-right: auto;
     width: 50%;
 }
-.img-goals {                /*img-goals refers to the image of the lambo called golf.jpg*/
-display: flex; /*Images*/
-  width: 50%; 
-   margin-left: auto;
-    margin-right: auto;
-    width: 50%;  
 }
-.school1.jpg {
-display: flex; 
+.golf {
+  display: flex; /*Images*/
   width: 50%; 
    margin-left: auto;
     margin-right: auto;
     width: 50%;
-}                    /* Resume Css */
+}
+
 
 #wonderexp {                /*wonderexp refers to the experience I gained from Wonder Researcb*/
 list-style-type: square;
@@ -60,10 +55,10 @@ list-style-type: square;
 #cleanup {
 list-style-type: square;   
 }
-h2 {                                 /*HomeWork 5 11/12/2018 Add flexboxes*/
+h2 {                                
   padding: 10px;
   border: 1px solid #5D6063;
-   background-color: #A9A9A9;        /*HomeWork 5 11/12/2018 Add borders/margins/backrounds to textboxes, text decoration 11/12/2018*/
+   background-color: #A9A9A9;        
 }
 h3 {
     text-decoration: underline;
@@ -74,7 +69,7 @@ h1 {
   padding: 20px;
   border-radius: 10px;
   width: 250px;
-  background-color:#A9A9A9;    /*HomeWork 5 11/12/2018 Add flexboxes to h1,h3,h2*/
+  background-color:#A9A9A9;    
 }   
    
    

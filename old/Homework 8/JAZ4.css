@@ -14,16 +14,16 @@ color: black;
 .myDIV3 {
 color: black;
 }
-.img-golf {                 /*img-golf refers to the image of the golf ball called golf.jpg*/
+#myimage{                 /*img-golf refers to the image of the golf ball called golf.jpg*/
 width: 300px;
 height: 200px;
 }
-.img-goals {                /*img-goals refers to the image of the lambo called golf.jpg*/
+#myimage2{                /*img-goals refers to the image of the lambo called golf.jpg*/
 width: 300px;
 height: 200px;   
 
 }
-.school1.jpg {
+#myimage3{
 width: 300px;
 height: 200px; 
 }                    /* Resume Css */
